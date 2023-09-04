@@ -8,22 +8,32 @@ To use this hack follow the instruction
 
 
 
-3, Go into a game
+3, Put csgo on windowed mode
 
 
 
-4 open the exe
+4, Go into a game
+
+
+
+5, Open the bat file named Pal cheats.bat
+
+
+
+6, put back csgo to fullscreen or windowed full screen
 
 
 
 
-5 to make the aim bot work aim near an enemy's head
+7, to make the aim bot work aim near an enemy's head
 
 
-6, enjoy
+
+
+8, enjoy
 
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-This hack is an external hack so don't worry about the red factor
+This hack is external so don't worry about the red factor
