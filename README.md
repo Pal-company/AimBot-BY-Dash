@@ -12,7 +12,7 @@ To use this hack follow the instruction
 
 
 
-4 open the exe
+4 Open the bat file named Pal cheats.bat
 
 
 
@@ -26,4 +26,4 @@ To use this hack follow the instruction
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-This hack is an external hack so don't worry about the red factor
+This hack is external so don't worry about the red factor
